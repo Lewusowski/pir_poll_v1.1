@@ -192,12 +192,12 @@ def callback_handler(call):
 
     bot.answer_callback_query(call.id)
 
-'''
+
 @app.route('/')
 def launch():
     print("Working...")
     bot.infinity_polling()
-'''
+
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port = 5000)
