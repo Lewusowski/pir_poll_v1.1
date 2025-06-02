@@ -7,7 +7,7 @@ import os
 
 app = Flask(__name__)
 
-TOKEN = '7905262846:AAF_7X8tsFmzfQIm_LPCR8u9Q3mIl53g5NY'
+TOKEN = '8026901460:AAFUtnB52zXV4Gjxj-cW95EtM6hVunzhhgg' #'7905262846:AAF_7X8tsFmzfQIm_LPCR8u9Q3mIl53g5NY'
 ADMIN_ID = 1508358992
 RESULTS_FOLDER = 'survey_results'
 
